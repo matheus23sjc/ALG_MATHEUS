@@ -1,0 +1,10 @@
+val1 = int(input("Entre com o dividendo: "))
+val2 = int(input('Entre com o divisor: '))
+quoc = (val1/val2)
+resto = (val1%val2)
+
+print(f'\n Dividendo é: {val1}')
+print(f'\n Divisor é: {val2}')
+print(f'\n Quociente é: {quoc}')
+print(f'\n Resto é: {resto}')
+print('\n')
