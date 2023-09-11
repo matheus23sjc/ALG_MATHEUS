@@ -1,6 +1,6 @@
 import math as a 
 
-nome = str(input('entre com o nome: '))
+nome = str(input('\nentre com o nome: '))
 
 print(f'\n todo nome: {nome}')
 print(f'\n primeiro caractere: {nome[0]}')
